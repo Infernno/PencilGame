@@ -1,0 +1,24 @@
+﻿{
+    "English": 
+    {
+        "{Tap}": "Tap to start",
+		"{GameOver}": "Game over!",
+		"{TimeLabel}": "Time: {0:00}:{1:00}",
+		"{ScoreLabel}": "Blocks destroyed: {0}",
+		"{InfoTitle}": "Info",
+		"{MainInfo}": "Destroy the blocks which are appearing on your way with a pencil of similar color.\n\n\n\n-------------------------------\nDeveloped by Stonce Inc.\n-------------------------------",
+		"{Ads}": "Ads",
+		"{AdsDescription}": "Do you really want to disable ads? Developers need to eat something =("
+    },
+    "Russian":
+    {
+        "{Tap}": "Коснитесь чтобы начать",
+		"{GameOver}": "Игра окончена!",
+		"{TimeLabel}": "Время: {0:00}:{1:00}",
+		"{ScoreLabel}": "Уничтоженных блоков: {0}",
+		"{InfoTitle}": "Информация",
+		"{MainInfo}": "Уничтожайте блоки, появляющиеся на вашем пути, с помощью карандаша аналогичного цвета.\n\n-------------------------------\nРазработано командой Stonce Inc.\n-------------------------------\n\nОтдельное спасибо самому лучшему сообществу по смартфону Meizu M1 и M2 Note : vk.com/meizunote",
+		"{Ads}": "Реклама",
+		"{AdsDescription}": "Вы уверены что хотите отключить рекламу? Ведь разработчиком нужно что-то есть =("
+    }
+}
